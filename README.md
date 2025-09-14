@@ -1,4 +1,4 @@
-# 🚗 Car Condition Classifier
+# Car Condition Classifier
 
 **Автоматическое определение состояния автомобиля по фотографии**
 
@@ -355,28 +355,12 @@ config['epochs'] = 25
 
 ## 👥 Авторы
 
-- **Dilnaz Kadyr** - *Основная разработка* - [@dilnazkadyr](https://github.com/dilnazkadyr)
+- **Zhasmin Kadyr** - *Основная разработка* - [jazzzmen](https://github.com/jazzzmen)
+- **Nazerke Kydyrgozha** 
 
-## 🙏 Благодарности
-
-- [timm](https://github.com/rwightman/pytorch-image-models) - Pre-trained модели
-- [Albumentations](https://github.com/albumentations-team/albumentations) - Аугментация данных
-- [Streamlit](https://streamlit.io/) - Web интерфейс
-- [PyTorch](https://pytorch.org/) - ML фреймворк
 
 ## 📞 Контакты
 
-- **Email**: dilnaz.kadyr@example.com
-- **GitHub**: [@dilnazkadyr](https://github.com/dilnazkadyr)
-- **LinkedIn**: [Dilnaz Kadyr](https://linkedin.com/in/dilnazkadyr)
-
-## 📊 Статистика
-
-![GitHub stars](https://img.shields.io/github/stars/dilnazkadyr/car-condition-classifier?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dilnazkadyr/car-condition-classifier?style=social)
-![GitHub issues](https://img.shields.io/github/issues/dilnazkadyr/car-condition-classifier)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dilnazkadyr/car-condition-classifier)
-
----
-
-⭐ **Если проект был полезен, поставьте звезду!** ⭐
+- **Email**: kadyrzhasmin3@gmail.com
+- **GitHub**: [jazzzmen](https://github.com/jazzzmen)
+- **LinkedIn**: [Zhasmin Kadyr](https://linkedin.com/in/zhasmin-kadyr)
