@@ -108,6 +108,8 @@ Dirty          0     7
 - PyTorch 1.9+
 - CUDA 11.0+ (для GPU)
 - 8GB+ RAM
+или
+- Google Colab 🤾🏻
 
 ### Зависимости
 
@@ -295,18 +297,6 @@ config['batch_size'] = 16
 config['epochs'] = 25
 ```
 
-## 📄 Лицензия
+## Лицензия
 
 Этот проект лицензирован под MIT License.
-
-## Авторы
-
-- **Zhasmin Kadyr** - *Основная разработка* - [jazzzmen](https://github.com/jazzzmen)
-- **Nazerke Kydyrgozha** 
-
-
-## Контакты
-
-- **Email**: kadyrzhasmin3@gmail.com
-- **GitHub**: [jazzzmen](https://github.com/jazzzmen)
-- **LinkedIn**: [Zhasmin Kadyr](https://linkedin.com/in/zhasmin-kadyr)
