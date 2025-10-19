@@ -54,13 +54,6 @@ print(f"Повреждения: {result['damage']['prediction']}")
 print(f"Чистота: {result['cleanliness']['prediction']}")
 ```
 
-### Web интерфейс
-
-```bash
-# Запустите Streamlit приложение
-streamlit run web_demo.py
-```
-
 ## Результаты
 
 ### Метрики производительности
